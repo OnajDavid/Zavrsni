@@ -1,0 +1,2 @@
+﻿  game.c
+C:\Users\Korisnik\Downloads\ZR-main\ZR-main\Project38\game.c(5,21): error C2205: 'answer': cannot initialize extern variables with block scope

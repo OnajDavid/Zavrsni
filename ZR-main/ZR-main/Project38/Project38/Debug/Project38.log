@@ -1,0 +1,4 @@
+﻿  main.c
+D:\Project38\main.c(7,8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Project38\main.c(572,23): warning C4018: '<': signed/unsigned mismatch
+  Project38.vcxproj -> D:\Project38\Debug\Project38.exe
